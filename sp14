@@ -1,0 +1,17 @@
+echo "enter m1, m2, m3 values"
+read m1 m3 m3
+if [$m1 -ge 40]
+then 
+if [$m2 -gt 40]
+then 
+if [$m3 -gt 40]
+then 
+echo "pass"
+else 
+echo "fail"
+fi
+else echo"fail"
+fi
+else echo "fail"
+fi
+
