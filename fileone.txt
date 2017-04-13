@@ -1,3 +1,4 @@
 this will be my first program as i am new to the GIt hub technology 
 this will be another program in the same text file.
-this is another one.
+this is another one
+i am adding the new changes to the file bypassing the staging area
