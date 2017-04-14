@@ -12,3 +12,5 @@ adding some other things
 =======
 adding just this line
 >>>>>>> 2af7c4ecf7ccda4352851670758b4d8b09e11b7a
+
+commiting
