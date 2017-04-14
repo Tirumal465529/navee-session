@@ -6,3 +6,5 @@ i am adding the new changes to the file bypassing the staging area
 i am adding this to check the files with out staging area.
 
 commmit
+
+adding some other things
