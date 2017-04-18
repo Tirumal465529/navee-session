@@ -14,3 +14,9 @@ adding just this line
 deleting some other things and adding some other code related issues
 
 
+<<<<<<< HEAD
+=======
+commiting
+
+these are the changes in the new branch to do the regular merge
+>>>>>>> newbranch
