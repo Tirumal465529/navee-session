@@ -7,10 +7,16 @@ i am adding this to check the files with out staging area.
  i am going to add some other context files.
 commmit
 
-<<<<<<< HEAD
-adding some other things
-=======
-adding just this line
->>>>>>> 2af7c4ecf7ccda4352851670758b4d8b09e11b7a
 
+adding some other things
+
+adding just this line
+deleting some other things and adding some other code related issues
+
+
+<<<<<<< HEAD
+=======
 commiting
+
+these are the changes in the new branch to do the regular merge
+>>>>>>> newbranch
