@@ -4,7 +4,7 @@ this is another one
 i am adding the new changes to the file bypassing the staging area
 
 i am adding this to check the files with out staging area.
-
+ i am going to add some other context files.
 commmit
 
 <<<<<<< HEAD
